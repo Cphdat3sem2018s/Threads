@@ -36,9 +36,7 @@ as well.
 
 ### [Day 3](Day3) - Thread Continued, Callables and Futures
 
-### Day 4 - JavaScript, AJAX, JSON continue
-
-### Day 5 - Study point exercises
+### Day 4-5 - More exercises
 
 
 ## Resources: 
