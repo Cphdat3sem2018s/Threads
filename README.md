@@ -83,8 +83,25 @@ Useful for looking up methods as you need them:
 * [Java ExecutorService api doc](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/ExecutorService.html#submit(java.util.concurrent.Callable)) -- The ExecuterService interface.
 
 ## Exercises 
+
+### A word on difficulty levels:
+As you have seen on previous semesters, we use color the colors GREEN, YELLOW
+and RED to indicate the level of difficulty/work intensity in the exercises for
+the concurrency exercises. The colors can’t be directly translated to exam
+grades, but can help you in two ways:
+  1. If you feel that the green exercises are a challenge, the red ones may not
+     be a good use of your time for now.
+  2. If you are pressed for time, the most efficient use of it is probably to
+     focus on the green and yellow exercises, and come back to the red ones
+     later if possible.
+
+| Niveau | Forventting |
+| ------ | ----------- |
+| Grøn | aaksjdhalksjdhalkshjaaaaaa alkjshdaskj hdalsd jaks hdalksj hdalkjs hdlkajs hda aaksjdhalksjdhalkshjaaaaaa alkjshdaskj hdalsd jaks hdalksj hdalkjs hdlkajs hda aaksjdhalksjdhalkshjaaaaaa alkjshdaskj hdalsd jaks hdalksj hdalkjs hdlkajs hda aaksjdhalksjdhalkshjaaaaaa alkjshdaskj hdalsd jaks hdalksj hdalkjs hdlkajs hda aaksjdhalksjdhalkshjaaaaaa alkjshdaskj hdalsd jaks hdalksj hdalkjs hdlkajs hda |
+| Grøn | a |
+| Grøn | a |
+ 
 *Will follow*
-<!-- - [Exercises Day-1](https://docs.google.com/document/d/1zezTIruAiSkhhNCRHJh4EYOcf_mgMblGs6U_XmQ3vp4/edit?usp=sharing)
+- [Exercises Day-1](https://docs.google.com/document/d/1zezTIruAiSkhhNCRHJh4EYOcf_mgMblGs6U_XmQ3vp4/edit?usp=sharing)
 - [Exercises Day-2](https://docs.google.com/document/d/1A3rBzbbppVZKx-YrGJKWdgsWKs8xNrTR2BeG7zVu6hg/edit?usp=sharing) (Producer/Consumer and Deadlocks)
 - [Exercises Day-3](https://docs.google.com/document/d/1AkC59GQm5sbwWpKkideE9kI9KmbscIwKOygn9b_FJMU/edit?usp=sharing) (Using an executor service)
- -->
