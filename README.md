@@ -97,9 +97,9 @@ grades, but can help you in two ways:
 
 | Niveau | Forventting |
 | ------ | ----------- |
-| Grøn | aaksjdhalksjdhalkshjaaaaaa alkjshdaskj hdalsd jaks hdalksj hdalkjs hdlkajs hda aaksjdhalksjdhalkshjaaaaaa alkjshdaskj hdalsd jaks hdalksj hdalkjs hdlkajs hda aaksjdhalksjdhalkshjaaaaaa alkjshdaskj hdalsd jaks hdalksj hdalkjs hdlkajs hda aaksjdhalksjdhalkshjaaaaaa alkjshdaskj hdalsd jaks hdalksj hdalkjs hdlkajs hda aaksjdhalksjdhalkshjaaaaaa alkjshdaskj hdalsd jaks hdalksj hdalkjs hdlkajs hda |
-| Grøn | a |
-| Grøn | a |
+| Green |  |
+| Yellow | |
+| Red | |
  
 *Will follow*
 - [Exercises Day-1](https://docs.google.com/document/d/1zezTIruAiSkhhNCRHJh4EYOcf_mgMblGs6U_XmQ3vp4/edit?usp=sharing)
