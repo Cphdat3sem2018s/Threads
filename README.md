@@ -98,8 +98,8 @@ grades, but can help you in two ways:
 | Niveau | Forventting |
 | ------ | ----------- |
 | Green | Ex1.1-5 |
-| Yellow | Ex1.6-7, Ex1.9|
-| Red | Ex1.8|
+| Yellow | Ex1.6 |
+| Red | Ex1.7|
  
 - [Exercises Day-1](https://docs.google.com/document/d/1zezTIruAiSkhhNCRHJh4EYOcf_mgMblGs6U_XmQ3vp4/edit?usp=sharing)
 <!--- [Exercises Day-2](https://docs.google.com/document/d/1A3rBzbbppVZKx-YrGJKWdgsWKs8xNrTR2BeG7zVu6hg/edit?usp=sharing) (Producer/Consumer and Deadlocks)
