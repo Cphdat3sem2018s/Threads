@@ -17,6 +17,7 @@ public class VolatileExample {
 		System.out.println("Hit enter to change string");
 		System.in.read();
 		mi.set(42);
+		System.out.println("Main thread has set mi to 42");
 	}
 }
 
