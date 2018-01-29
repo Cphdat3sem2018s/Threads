@@ -97,11 +97,11 @@ grades, but can help you in two ways:
 
 | Niveau | Forventting |
 | ------ | ----------- |
-| Green |  |
-| Yellow | |
-| Red | |
+| Green | Ex1.1-5 |
+| Yellow | Ex1.6-7, Ex1.9|
+| Red | Ex1.8|
  
-*Will follow*
 - [Exercises Day-1](https://docs.google.com/document/d/1zezTIruAiSkhhNCRHJh4EYOcf_mgMblGs6U_XmQ3vp4/edit?usp=sharing)
-- [Exercises Day-2](https://docs.google.com/document/d/1A3rBzbbppVZKx-YrGJKWdgsWKs8xNrTR2BeG7zVu6hg/edit?usp=sharing) (Producer/Consumer and Deadlocks)
+<!--- [Exercises Day-2](https://docs.google.com/document/d/1A3rBzbbppVZKx-YrGJKWdgsWKs8xNrTR2BeG7zVu6hg/edit?usp=sharing) (Producer/Consumer and Deadlocks)
 - [Exercises Day-3](https://docs.google.com/document/d/1AkC59GQm5sbwWpKkideE9kI9KmbscIwKOygn9b_FJMU/edit?usp=sharing) (Using an executor service)
+-->
