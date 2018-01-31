@@ -2,14 +2,12 @@
 % Sigurt Dinesen
 % Asynchronous Java with Futures, Callables and Executor services
 
-# Learning outcomes
-
 ## Threads Until now
   * Threads
     * What is concurrency? 
     * java _synchronized_ and _volatile_ keywords
     * What is: a thread, race-conditions, atomicity, deadlocking,
-      producer/consumer, observables?
+      producer/consumer?
 
 ## Goals for today
   * Understand and use modern Java Concurrency features
@@ -20,12 +18,17 @@
     * Completable Futures
 
 ## Agenda for today
+  * Side-notes
   * Recap on Threads
   * Immutability
   * Threads vs Tasks
   * Callables
   * Futures
   * Completable Futures
+
+## Side Notes
+  * sleep/lock/wait vs busy wait
+  * Reuse of Runnables
 
 ## Recap on threads (Q/A)
   * How do we tell java that code should run in a thread?
@@ -96,7 +99,7 @@ MyTask t = () -> “Hello!”;
   * Better to divide your work into tasks,  
     and let reusable threads run them.
 
-  * Tasks what we call `Runnable`s and `Callable`s in Java,  
+  * "Tasks" is what we call `Runnable`s and `Callable`s in Java,  
     when we call them through executors
 
     ![thread overhead table](assets/thread-overhead.png)
