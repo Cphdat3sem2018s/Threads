@@ -95,14 +95,12 @@ grades, but can help you in two ways:
      focus on the green and yellow exercises, and come back to the red ones
      later if possible.
 
-| Niveau | Forventting |
+| Level | Expectation |
 | ------ | ----------- |
 | Green | Ex1.1-5 Ex2.1-2, Ex2.4 Ex2.5 (except c)|
 | Yellow | Ex1.6 Ex2.3 (except d.3) Ex2.5.c.1|
 | Red | Ex1.7 Ex2.3.d Ex2.5.c.2|
  
-  * [Exercises Day-1](https://docs.google.com/document/d/1zezTIruAiSkhhNCRHJh4EYOcf_mgMblGs6U_XmQ3vp4/edit?usp=sharing)
+  * [Exercises Day-1](https://docs.google.com/document/d/1zezTIruAiSkhhNCRHJh4EYOcf_mgMblGs6U_XmQ3vp4/edit?usp=sharing) (Basic thread creation and raceconditions)
   * [Exercises Day-2](https://docs.google.com/document/d/1A3rBzbbppVZKx-YrGJKWdgsWKs8xNrTR2BeG7zVu6hg/edit?usp=sharing) (Producer/Consumer and Deadlocks)
-  <!--
   * [Exercises Day-3](https://docs.google.com/document/d/1AkC59GQm5sbwWpKkideE9kI9KmbscIwKOygn9b_FJMU/edit?usp=sharing) (Using an executor service)
--->
