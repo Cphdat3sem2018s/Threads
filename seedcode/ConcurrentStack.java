@@ -29,7 +29,11 @@ public class ConcurrentStack<T> {
 	public T peek() {
 		synchronized(this){
 			int lastIndex=size-1;
-			return stack.get(lastIndex);
+			if(size>=0) {
+				return stack.get(lastIndex);
+			} else {
+				return null;
+			}
 		}
 	}
 
