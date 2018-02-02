@@ -28,8 +28,8 @@ public class ConcurrentStack<T> {
 
 	public T peek() {
 		synchronized(this){
-			int lastIndex=size-1;
-			if(size>=0) {
+			if(size>0) {
+				int lastIndex=size-1;
 				return stack.get(lastIndex);
 			} else {
 				return null;
