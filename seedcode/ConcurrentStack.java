@@ -33,7 +33,7 @@ public class ConcurrentStack<T> {
 		}
 	}
 
-	//Example usage of OneValueCache
+	//Example usage of ConcurrentStack
 	public static void main(String[] args) {
 		ConcurrentStack<Integer> stack = new ConcurrentStack<>();
 		for(int i=0;i<10;i++) {
